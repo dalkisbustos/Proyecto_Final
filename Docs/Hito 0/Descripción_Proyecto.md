@@ -12,4 +12,3 @@ Básicamente consiste en que los pacientes a través de la aplicación móvil pu
 + ***Seguimiento en los tratamientos:*** A los pacientes según su necesidad y cuando lo solicite se les mostrará el correspondiente seguimiento y/o recomendacionespara el tratamiento en específico que esté tomando. Por ejemplo, ya sea si se debe tomar algún medicamento en especial, ingerir algún alimento en específico o hacer ejercicio físico.
 
 + ***Pagar sus Consultas:*** Los pacientes al termirar sus sesiones en el Centro Médico podrán realizar el pago vía web sin necesidad de llevar dinero en efectivo.
-+ 
