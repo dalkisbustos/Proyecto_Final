@@ -1,8 +1,8 @@
 # Hito 1 - Concretando y Planificando el Proyecto 🧠
 
-En ésta fase se definirá el Proyecto y se organizará en los hitos para el trabajo del mismo. 
+Éste Hito 1 comprende la estructura de trabajo y la definición de los hitos dentro del desarrollo de la aplicación en sí misma.  
 
-Éste hito contiene las entregas a continuación
+Éste hito contiene las entregas a continuación:
 
 + [Historias de Usuario](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Historias_Usuario.md)
 
