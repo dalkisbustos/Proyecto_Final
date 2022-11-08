@@ -3,7 +3,7 @@
 Durante el Proyecto se ejecutarán los siguientes Productos Mínimamente Viables. Cada uno de ellos está relacionado con su respectiva Historia de Usuario relacionada
 
 
-+ PMV 0: Creación del Clases del Sistema: 
++ PMV 0: Creación de Clases del Sistema
 
 + PMV1: Sistema de selección de horarios (médico)
 
