@@ -9,5 +9,5 @@ Durante el Proyecto se ejecutarán los siguientes Productos Mínimamente Viables
 
 + PMV2:  Sistema de agendamiento de citas por parte del usuario (paciente)
 
-+ PMV3: Sistema de control de la agenda del consultorio médico(administrador)
++ PMV3: Reportes de control de la agenda general del consultorio médico(administrador)
 
