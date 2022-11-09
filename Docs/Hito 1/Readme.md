@@ -1,6 +1,15 @@
 # Hito 1 - Concretando y Planificando el Proyecto 🧠
 
-Éste Hito 1 comprende la estructura de trabajo y la definición de los hitos dentro del desarrollo de la aplicación en sí misma.  
+Para el desarrollo de ésta aplicación la cual se desplegará en la nube se utilizarán las siguientes herramientas:
+
+- Lenguaje de Programación Python, Angular, JavaScript y TypeScript
+
+- Framework de creación de API FastAPI
+
+- Framework FrontEnd Angular
+
+
+En sí, éste Hito 1 comprende la organización del trabajo a través de los productos mínimamente víables, las historias de usuario principales y la creación de clases para las entidades del sistema.    
 
 Éste hito contiene las entregas a continuación:
 
