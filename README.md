@@ -5,7 +5,7 @@ El avance del Proyecto se desarrollará a través de Hitos. En el repositorio se
 
 ### Para empezar 🚀
 
-La aplicación a desarrollar se desplegará en la nube utilizando herramientas como Python, Angular, JavaScript y TypeScript
+La aplicación a desarrollar se desplegará en la nube utilizando herramientas como Node.js, Angular, JavaScript y TypeScript
 
 
 
