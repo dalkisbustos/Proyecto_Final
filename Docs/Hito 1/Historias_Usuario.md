@@ -11,4 +11,4 @@ Para el proyecto Excellence Clinic App se definieron 4 Historias de Usuario las 
 
 + [[HU 4] Cómo usuario (paciente) quiero consultar la información de los productos y servicios que tiene la Clínica Estética](https://github.com/dalkisbustos/Proyecto_Final/issues/4)
 
-+ [[HU 5] Cómo usuario(administrador) quiero alimentar la base de datos de los productos y servicios que la Clínica ofrece para que los pacientes puedan consultarla)] (https://github.com/dalkisbustos/Proyecto_Final/issues/5)
++ [[HU 5] Cómo usuario(administrador) quiero alimentar la base de datos de los productos y servicios que la Clínica ofrece para que los pacientes puedan consultarla)](https://github.com/dalkisbustos/Proyecto_Final/issues/5)
