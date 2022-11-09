@@ -10,4 +10,4 @@ Se han identificado para el Proyecto las diferentes entidades a continuación:
 
 - **Consulta:** Ésta Clase guarda la información de productos y servicios que ofrece la clínica
 
-Aquí se puede visualizar con las [clases](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Clase_Usuario.js) respectivas
+Aquí se puede visualizar un poco acerca de las [clases](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Clase_Usuario.js)
