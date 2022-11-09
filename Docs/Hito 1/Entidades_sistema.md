@@ -8,6 +8,6 @@ Se han identificado para el Proyecto las diferentes entidades a continuación:
 
 - **Horario_Paciente:** Ésta clase guarda la información de las citas agendadas por el paciente con el respectivo médico
 
-- **Consulta:** Ésta Clase guarda la información de productos y servicios que ofrece la clínica
+- **Prodyservicios:** Ésta Clase guarda la información de productos y servicios que ofrece la clínica
 
-Aquí se puede visualizar un poco acerca de las [clases](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Clase_Usuario.js)
+Aquí se pueden visualizar las respectivas [clases](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Clase_Usuario.js)
