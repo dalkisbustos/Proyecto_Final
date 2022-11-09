@@ -11,3 +11,5 @@ Durante el Proyecto se ejecutarán los siguientes Productos Mínimamente Viables
 
 + [PMV3: Reportes de control de la agenda general del consultorio médico(administrador)](https://github.com/dalkisbustos/Proyecto_Final/milestone/4)
 
++ [PM4:Consulta de Productos y Servicios que la Clínica ofrece](https://github.com/dalkisbustos/Proyecto_Final/milestone/5)
+
