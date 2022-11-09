@@ -1,4 +1,4 @@
-## Entidades del Sistema
+## Entidades del Sistema ✍
 
 Se han identificado para el Proyecto las diferentes estidades a continuación:
 
