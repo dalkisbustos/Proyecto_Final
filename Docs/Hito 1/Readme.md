@@ -2,7 +2,7 @@
 
 Para el desarrollo de ésta aplicación la cual se desplegará en la nube se utilizarán las siguientes herramientas:
 
-- Lenguaje de Programación Python, Angular, JavaScript y TypeScript
+- Lenguaje de Programación Node.js, Angular, JavaScript y TypeScript
 
 - Framework de creación de API FastAPI
 
