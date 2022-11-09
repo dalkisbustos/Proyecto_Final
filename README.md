@@ -3,8 +3,10 @@
 En éste repositorio se documentará todo lo relacionado con el Proyecto Final de la materia Cloud Computing del Máster en Ingeniería Informática de la Universidad de Granada 2022-2023
 
 
-**1,2,3 Go!**
-![LOGO-EC](https://user-images.githubusercontent.com/116747654/200839217-d6f4e944-fc1e-47bc-8081-bc54d1640a9d.jpg)
+**EXCELLENCE CLINIC APP**
+
+![Logo Excellence](https://user-images.githubusercontent.com/116747654/200843216-51b8959e-dc84-4b81-900c-e7b83a9cb35e.jpg)
+
 
 
 El Proyecto consiste en el desarrollo de una aplicación que permita consultar los productos y servicios de un Centro Médico Estético y reservar citas de consulta con el profesional especializado de manera online. El avance del Proyecto se desarrollará a través de Hitos, en cual se encuentra de manera completa en la carpeta [Docs](https://github.com/dalkisbustos/Proyecto_Final/tree/main/Docs) con cada uno de los hitos correspondientes
