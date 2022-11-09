@@ -8,3 +8,5 @@ Para el proyecto se definieron la siguientes Historias de Usuario prinicipales a
 + [[HU 2] Cómo usuario del sistema (paciente), quiero agendar mis citas médicas en el calendario para reservar ese espacio con el médico](https://github.com/dalkisbustos/Proyecto_Final/issues/2)
 
 + [[HU 3] Cómo usuario del sistema (administrador) quiero visualizar en el calendario la reserva de citas médicas para analizar el tráfico de pacientes en el centro médico](https://github.com/dalkisbustos/Proyecto_Final/issues/3)
+
++ [[HU 4] Cómo usuario (paciente) quiero consultar la información de los productos y servicios que tiene la Clínica Estética](https://github.com/dalkisbustos/Proyecto_Final/issues/4)
