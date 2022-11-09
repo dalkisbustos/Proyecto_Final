@@ -9,14 +9,18 @@ En éste repositorio se documentará todo lo relacionado con el Proyecto Final d
 
 
 
-El Proyecto consiste en el desarrollo de una aplicación que permita a los pacientes visualizar y consultar, los productos y servicios de una Clínica Estética  y de ésta manera si está interesado en alguno ; poder reservar citas de consulta con el profesional especializado de manera online. El avance del Proyecto se desarrollará a través de Hitos, en cual se encuentra de manera completa en la carpeta [Docs](https://github.com/dalkisbustos/Proyecto_Final/tree/main/Docs) con cada uno de los hitos correspondientes
+Excellence Clinic, es una Clínica Estética que provee productos y servicios en el mundo de la medicina estética y el antienvejecimiento. Cuenta con una amplia gama de Profesionales Especializados en las diferentes ciencias de la salud como los son: Nutrición, Medicina Funcional, Cirugía Estética, Cosmetología y Fisioterapia. 
 
-###  Hito 0 - Para empezar 🚀
+El Proyecto que se quiere desarrollar para la Clínica; es una aplicación que permita a los pacientes, visualizar el catálogo de productos y servicios que ésta pueda ofrecerle. Además, que puedan agendar una cita de consulta con el profesional especializado de manera online. El avance del proyecto, se desarrollará a través de Hitos, en el que se abordará una funcionalidad de todo el sistema completo. El repositorio de todos los hitos, se encuentra de manera completa en la carpeta [Docs](https://github.com/dalkisbustos/Proyecto_Final/tree/main/Docs), con cada uno de los hitos correspondientes.
+
+##  Hito 0 - Para empezar 🚀
 
 Para empezar el desarrollo de la aplicación se realiza la respectiva [configuración de nuestro Git](https://github.com/dalkisbustos/Proyecto_Final/tree/main/Docs/Hito%200)
 
-###  Hito 1 - Concretando y Planificando el Proyecto 📋
-**Pre-requisitos**: Para la ejecución de la aplicación, utilizaremos herramientas tales como Node.js, Framework FrontEnd Angular, Reacts, JavaScript y TypeScript
+##  Hito 1 - Concretando y Planificando el Proyecto 📋
+
+En éste Hito seleccionaremos que herramientas y lenguajes de programación serían más funcionales para la elaboración de la arquitectura y del desarrollo en general. 
+Para la ejecución de la aplicación, utilizaremos herramientas tales como Node.js, Framework FrontEnd Angular, Reacts, JavaScript y TypeScript
 
 Éste [Hito 1](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Readme.md) comprende la organización del trabajo a través de los productos mínimamente víables, las historias de usuario principales y la creación de clases para las entidades del sistema.
 
