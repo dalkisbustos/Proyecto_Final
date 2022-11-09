@@ -11,7 +11,7 @@ Para el desarrollo de ésta aplicación la cual se desplegará en la nube se uti
 
 En sí, éste Hito 1 comprende la organización del trabajo a través de los productos mínimamente víables, las historias de usuario principales y la creación de clases para las entidades del sistema.    
 
-Éste hito contiene las entregas a continuación:
+Aquí, los enlaces a continuación:
 
 + [Historias de Usuario](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Historias_Usuario.md)
 
