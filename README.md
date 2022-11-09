@@ -9,7 +9,7 @@ En éste repositorio se documentará todo lo relacionado con el Proyecto Final d
 
 
 
-El Proyecto consiste en el desarrollo de una aplicación que permita visualizar y consultar a los usuarios, los productos y servicios de un Centro Médico Estético y si está interesado en alguno de ellos; poder reservar citas de consulta con el profesional especializado de manera online. El avance del Proyecto se desarrollará a través de Hitos, en cual se encuentra de manera completa en la carpeta [Docs](https://github.com/dalkisbustos/Proyecto_Final/tree/main/Docs) con cada uno de los hitos correspondientes
+El Proyecto consiste en el desarrollo de una aplicación que permita a los pacientes visualizar y consultar, los productos y servicios de una Clínica Estética  y de ésta manera si está interesado en alguno ; poder reservar citas de consulta con el profesional especializado de manera online. El avance del Proyecto se desarrollará a través de Hitos, en cual se encuentra de manera completa en la carpeta [Docs](https://github.com/dalkisbustos/Proyecto_Final/tree/main/Docs) con cada uno de los hitos correspondientes
 
 ###  Hito 0 - Para empezar 🚀
 
