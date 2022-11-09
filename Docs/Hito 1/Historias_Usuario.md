@@ -1,4 +1,4 @@
-## Historias de Usuario
+## Historias de Usuario 👱
 
 Para el proyecto se definieron la siguientes Historias de Usuario prinicipales a continuación
 
