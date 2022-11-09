@@ -22,7 +22,7 @@ Para empezar el desarrollo de la aplicación se realiza la respectiva [configura
 En éste Hito seleccionaremos que herramientas y lenguajes de programación serían más funcionales para la elaboración de la arquitectura y del desarrollo en general. 
 Para la ejecución de la aplicación, utilizaremos herramientas tales como Node.js, Framework FrontEnd Angular, Reacts, JavaScript y TypeScript
 
-Éste [Hito 1](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Readme.md) comprende la organización del trabajo a través de los productos mínimamente víables, las historias de usuario principales y la creación de clases para las entidades del sistema.
+Éste [Hito 1](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Readme.md) comprende también la organización del trabajo a través de los productos mínimamente víables, las historias de usuario principales y la creación de clases para las entidades del sistema.
 
 
 
