@@ -7,3 +7,5 @@ Se han identificado para el Proyecto las diferentes estidades a continuación:
 - **Horario_Medico:** Ésta clase guarda la información de las horas disponibles que tiene el médico 
 
 - **Horario_Paciente:** Ésta clase guarda la información de las citas agendadas por el paciente con el respectivo médico
+
+Aquí se puede visualizar con las [clases](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Clase_Usuario.js) respectivas
