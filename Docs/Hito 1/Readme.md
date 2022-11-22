@@ -2,11 +2,15 @@
 
 Para el desarrollo de ésta aplicación la cual se desplegará en la nube se utilizarán las siguientes herramientas:
 
-- Lenguaje de Programación Node.js, Angular, JavaScript y TypeScript
+- Lenguaje de Programación Python
 
-- Framework de creación de API FastAPI
+- Gestor de Base de Datos MySQL
 
-- Framework FrontEnd Angular
+- Framework de Backend Flask
+
+- Framework FrontEnd Boostrap
+
+- Docker
 
 
 En sí, éste Hito 1 comprende la organización del trabajo a través de los productos mínimamente víables, las historias de usuario principales y la creación de clases para las entidades del sistema.    
