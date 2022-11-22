@@ -8,16 +8,16 @@ Para implementar el Módulo de Pruebas del Proyecto, se ha creado una carpeta ll
 - Un poco del código con las Historias de Usuario
 - 
 
-### Biblioteca de Aserciones
+### ✔ Biblioteca de Aserciones
 Una Biblioteca de aserciones es
 
 utilizará pytest; el cual es un marco de prueba para Python que se utiliza para escribir, organizar y ejecutar casos de prueba. Para ello, se creó una carperta llamada pruebas y se d siguieron los siguientes pasos a continuación:
 
-### Gestor de Tareas
+### ✔ Gestor de Tareas
 
 Makefile
 
-### Marco de Pruebas
+### ✔ Marco de Pruebas
 
 Para el marco de pruebas he seleccionado PyTest el cual es uno de los marcos más populares de trabajo que permite realizar pruebas unitarias para un software en Python. 
 - Primero se debe instalar con la línea de comando pip install pytest
@@ -33,24 +33,29 @@ Las Funciones de prueba deben tener el prefijo test_. Con el prefijo test_, se a
 def test_main():
     assert "a string value" == "a string value"
 
-
-- Conexión a la Base de Datos
-- Creación de un nuevo médico
-
-
-
 ###### Clases de prueba y métodos de prueba
 
 class TestUser:
 
     def test_username(self):
         assert default() == "default username"
+        
+Las dos pruebas que estaremos haciendo serán:
 
-###### Creación del Archivo Requeriments.txt
+- Conexión a la Base de Datos
+- Creación de un nuevo médico
+
+###### Creación del Archivo Requirements.txt
 
 En Python, a través del comando pip freeze >requeriments.txt se creó el archivo que instala todas las dependencias del entorno virtual del Proyecto. Éste archivo se usa cuando se está usando frameworks como Flask.
 
 ![image](https://user-images.githubusercontent.com/116747654/203413591-259f52d9-5ddd-4297-9580-67de9dbcd6a7.png)
+
+Estás son las dependencias que requieres el proyecto
+
+![image](https://user-images.githubusercontent.com/116747654/203444372-b99c921a-c774-429c-8e28-034981bf2200.png)
+
+
 
 ###### Instalación del Linter 
 
