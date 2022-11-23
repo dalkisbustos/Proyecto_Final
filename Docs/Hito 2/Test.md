@@ -1,6 +1,6 @@
 # Hito 3 - Haciendo Test y Pruebas del Proyecto 📌
 
-Para implementar el Módulo de Pruebas del Proyecto, se ha creado una carpeta llamada Tests, con el archivo test_main.py. Además lo he dividido en las siguientes secciones: 
+Para implementar el Módulo de Pruebas del Proyecto, se ha creado una carpeta llamada Tests, con el archivo test_app.py. Además lo he dividido en las siguientes secciones: 
 
 - Biblioteca de Aserciones
 - Gestor de Tareas
