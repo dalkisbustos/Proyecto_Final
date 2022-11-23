@@ -5,8 +5,7 @@ Para implementar el Módulo de Pruebas del Proyecto, se ha creado una carpeta ll
 - Biblioteca de Aserciones
 - Gestor de Tareas
 - Marco de pruebas
-- Un poco del código con las Historias de Usuario
-- 
+
 
 ### ✔ Biblioteca de Aserciones
 Una Biblioteca de aserciones es
