@@ -16,7 +16,7 @@ Para gestionar las pruebas, en nuestro directorio raíz se ha creado una carpeta
 
 #### Creación del Archivo YAML
 
-YAML es un lenguaje de serialización de datos que suele utilizarse en el diseño de archivos de configuración. Aquí listaremos algunos datos importantes. Nuestro archivo .yaml [aquí]
+YAML es un lenguaje de serialización de datos que suele utilizarse en el diseño de archivos de configuración. Aquí listaremos algunos datos importantes. Nuestro archivo .yaml [aquí](https://github.com/dalkisbustos/Proyecto_Final/blob/main/cc.yaml)
 
 
 
