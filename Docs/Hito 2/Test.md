@@ -40,7 +40,31 @@ Una aserción es una declaración de Python para establecer controles de legitim
 
 ### ✔ Gestor de Tareas
 
+Para realizar nuestro Gestor de Tareas se requiere tener un archivo llamado Makefile en la raíz del Proyecto. Este archivo nos indicará lo que el Makefile debe hacer. Éste archivo consta de un conjunto de reglas, las cuales se dividen en 3 partes: un objetivo, una lista de requisitos previos y una receta.
+
+Entonces en nuestro caso para nuestra aplicación tendriamos cuatro objetivos especificos:
+
+1) Instalación de dependencias basado en el archivo requirements.txt, el cual crearemos con una etapa de configuración inicial con setup:
+
+![image](https://user-images.githubusercontent.com/116747654/203596440-2f797db9-3bd5-4894-9bbb-8f877d092262.png)
+
+2) Creación de la regla para la ejecución de la aplicación 
+
+![image](https://user-images.githubusercontent.com/116747654/203596901-efd705b6-c387-4a37-bb89-dfae9aec7fbd.png)
+
+3) Creación de la regla para la ejecución de los Test con Pytest
+
+
+
+4) Creación de una regla para limpiar la __pycache__
+
+![image](https://user-images.githubusercontent.com/116747654/203597943-8ed0cba1-c0c6-4394-9b4d-3ef1c0ab5f50.png)
+
+
+
 Makefile
+
+
 
 ### ✔ Marco de Pruebas
 
