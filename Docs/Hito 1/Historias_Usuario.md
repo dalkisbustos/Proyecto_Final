@@ -13,4 +13,4 @@ Para el proyecto Excellence Clinic App se definieron 5 Historias de Usuario las 
 
 + [[HU 5] Cómo usuario(administrador) quiero alimentar la base de datos de los productos y servicios que la Clínica ofrece para que los pacientes puedan consultarla)](https://github.com/dalkisbustos/Proyecto_Final/issues/5)
 
-+[HU 6] Cómo usuario (administrador) quiero poder crear, editar, y eliminar los diferentes medicos y pacientes del sistema para alimentar la Base de Datos
++ [HU 6] Cómo usuario (administrador) quiero poder crear, editar, y eliminar los diferentes medicos y pacientes del sistema para alimentar la Base de Datos
