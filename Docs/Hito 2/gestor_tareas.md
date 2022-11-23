@@ -1,4 +1,4 @@
-### ✔ Gestor de Tareas
+# ✔ Gestor de Tareas
 
 Para realizar nuestro Gestor de Tareas se requiere tener un archivo llamado Makefile en la raíz del Proyecto. Este archivo nos indicará lo que el Makefile debe hacer. Éste archivo consta de un conjunto de reglas, las cuales se dividen en 3 partes: un objetivo, una lista de requisitos previos y una receta.
 
