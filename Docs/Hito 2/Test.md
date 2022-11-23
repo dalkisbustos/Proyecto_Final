@@ -14,7 +14,9 @@ Para gestionar las pruebas, en nuestro directorio raíz se ha creado una carpeta
 - [Avance de Código](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/avance_codigo.md)
 
 
+#### Creación del Archivo YAML
 
+YAML es un lenguaje de serialización de datos que suele utilizarse en el diseño de archivos de configuración. Aquí listaremos algunos datos importantes. Nuestro archivo .yaml [aquí]
 
 
 
