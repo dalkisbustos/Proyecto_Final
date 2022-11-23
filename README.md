@@ -20,19 +20,15 @@ Para empezar el desarrollo de la aplicación se realiza la respectiva [configura
 ##  Hito 1 - Concretando y Planificando el Proyecto 📋
 
 En éste Hito seleccionaremos que herramientas y lenguajes de programación serían más funcionales para la elaboración de la arquitectura y del desarrollo en general. 
-Para la ejecución de la aplicación, utilizaremos herramientas tales como Node.js, Framework FrontEnd Angular, Reacts, JavaScript y TypeScript
+Para la ejecución de la aplicación, utilizaremos herramientas tales como Python, Flask(Framework BackEnd), Boostrap (Framework FrontEnd), Html y MySql (Gestor de Base de Datos).
 
 Éste [Hito 1](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%201/Readme.md) comprende también la organización del trabajo a través de los productos mínimamente víables, las historias de usuario principales y la creación de clases para las entidades del sistema.
 
+### Hito 2 Test y Pruebas del Proyecto  💻
 
+En éste [Hito 2](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/Test.md), el cual consiste en el Módulo de Pruebas del Proyecto nos aseguraremos de que cada una de las funcionalidades del mismo, nos arroje los resultados esperados durante su transcurso y evolución. En el caso de Python, que es el lenguaje que utilizaremos para el desarrollo, existen diferentes frameworks que permiten realizar éste proceso de manera automatizada como los son Robot, Unittest, DocTest y Pytest.
 
-### Instalación 🔧
-
-
-
-### Pruebas 💻
-
-
+Pytest es un marco de prueba de código abierto basado en Python que generalmente es para todo uso, pero especialmente para Pruebas funcionales y API, así que por su sencillez y rendimiento nos decantaremos por éste último
 
 ### Despliegue ✨
 
