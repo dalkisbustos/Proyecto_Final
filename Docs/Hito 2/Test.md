@@ -8,25 +8,9 @@ Para gestionar las pruebas, en nuestro directorio raíz se ha creado una carpeta
 
 Éste Hito 2, comprende las siguientes secciones:
 
-- Biblioteca de Aserciones
-- Gestor de Tareas
-- Marco de pruebas
-
-
-### ✔ Biblioteca de Aserciones
-Una aserción es una declaración de Python para establecer controles de legitimidad en el código y nos permite asegurarnos de que ciertas condiciones sean y sigan siendo verdaderas. Cuando cualquiera de estas condiciones falla, tiene una clara indicación de lo que está sucediendo. De esta manera, se puede depurar y corregir rápidamente el código. Para ello, utilizaremos Pytest; el cual es un marco de prueba para Python que se utiliza para escribir, organizar y ejecutar casos de prueba y gestionar las aserciones.
-
-1) Se declara la función a probar
-
-![image](https://user-images.githubusercontent.com/116747654/203582494-ff322737-5186-46d2-917a-3cea4793ba98.png)
-
-2) Se importa y se crea otra función para llamarla desde el archivo de test_
-
-![image](https://user-images.githubusercontent.com/116747654/203582851-1937cccd-b1e9-4de1-9a6a-e7c249fd6945.png)
-
-3) Se corre Pytest en la terminal y se esperan los resultados
-
-![image](https://user-images.githubusercontent.com/116747654/203583123-b10f79c2-931f-48af-a747-0368092c9a97.png)
+- [Biblioteca de Aserciones](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/biblioteca_aserciones.md)
+- [Gestor de Tareas](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/gestor_tareas.md)
+- [Marco de pruebas](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/marco_pruebas.md)
 
 
 
@@ -36,73 +20,8 @@ Una aserción es una declaración de Python para establecer controles de legitim
 
 
 
-
-
-### ✔ Gestor de Tareas
-
-Para realizar nuestro Gestor de Tareas se requiere tener un archivo llamado Makefile en la raíz del Proyecto. Este archivo nos indicará lo que el Makefile debe hacer. Éste archivo consta de un conjunto de reglas, las cuales se dividen en 3 partes: un objetivo, una lista de requisitos previos y una receta.
-
-Entonces en nuestro caso para nuestra aplicación tendriamos que centrarnos en las dependencias a instalar, en el entorno virtual y en la instalación de Pytest para correr las pruebas. De manera que vayamos desglosando poco a poco:
-
-###### Instalación de Dependencias con el Requirements.txt
-
-1) Instalación de dependencias basado en el archivo requirements.txt, el cual crearemos con una etapa de configuración inicial con setup:
-
-![image](https://user-images.githubusercontent.com/116747654/203596440-2f797db9-3bd5-4894-9bbb-8f877d092262.png)
-
-2) Creación de la regla para la ejecución de la aplicación 
-
-![image](https://user-images.githubusercontent.com/116747654/203596901-efd705b6-c387-4a37-bb89-dfae9aec7fbd.png)
-
-3) Creación de la regla para la ejecución de los Test con Pytest
-
-![image](https://user-images.githubusercontent.com/116747654/203610766-0fce83c9-06ed-46a3-876a-3d49358748d5.png)
-
-4) Creación de una regla para limpiar la __pycache__
-
-![image](https://user-images.githubusercontent.com/116747654/203597943-8ed0cba1-c0c6-4394-9b4d-3ef1c0ab5f50.png)
-
-######  Creación del Entorno Virtual 
-
-1) Para la activación de nuestro entorno virtual se debe ejecutar la siguiente linea
-
-![image](https://user-images.githubusercontent.com/116747654/203604501-4cc7e80f-7e34-49e5-805a-a78fa179805c.png)
-
-2) Para ejecutar la aplicación con este entorno, cree la siguiente regla en el makefile
-
-![image](https://user-images.githubusercontent.com/116747654/203605717-50d9afda-489b-4ddd-b1c3-97bd527e9331.png)
-
-
-Entonces para resumiendo ambos pasos pasos, lo condensaremos asignando variables al entorno virtual, a la activación del entorno virtual, a la instalación de dependencias, a la ejecución de los test y limpiaremos al final
-
-![image](https://user-images.githubusercontent.com/116747654/203609892-5ee45a96-3d9b-4b04-b1a2-2034a9cdfd67.png)
-
- 
-### ✔ Marco de Pruebas
-
-El utilizar Pytest, contamos con una manera ágil de realizar las pruebas Unitarias de las diferentes funciones del proyecto. Cada uno de los archivos de prueba, debe empezar con la palabra test_ para asegurarnos que Pytest recopila y ejecuta la prueba.
-
-- Primero se debe instalar Pytest con la línea de comando pip install pytest
-
-##### Creación de Prueba Unitaria
-        
-Las dos pruebas que estaremos haciendo serán:
-
-- Conexión a la Base de Datos
-- Creación de un Nuevo Médico
-
-###### Creación del Archivo Requirements.txt
-
-En Python, a través del comando pip freeze >requeriments.txt se creó el archivo que instala todas las dependencias del entorno virtual del Proyecto. Éste archivo se usa cuando se está usando frameworks como Flask. Lo podemos encontrar en nuestro repositorio [aquí](https://github.com/dalkisbustos/Proyecto_Final/blob/main/src/requirements.txt)
-
-![image](https://user-images.githubusercontent.com/116747654/203413591-259f52d9-5ddd-4297-9580-67de9dbcd6a7.png)
-
-Estás son las dependencias que requieres el proyecto
-
-![image](https://user-images.githubusercontent.com/116747654/203444372-b99c921a-c774-429c-8e28-034981bf2200.png)
 
 
 
-###### Instalación del Linter 
+ 
 
-Este complemento linter-python-pep8 para Linter proporciona una interfaz para pep8 . Se utilizará con archivos que tengan la sintaxis de Python.
