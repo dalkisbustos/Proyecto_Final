@@ -4,7 +4,7 @@ El Módulo de Pruebas del Proyecto nos asegurará que cada una de las funcionali
 
 Pytest es un marco de prueba de código abierto basado en Python que generalmente es para todo uso, pero especialmente para Pruebas funcionales y API, así que por su sencillez y rendimiento nos decantaremos por el.
 
-Para gestionar las pruebas, en nuestro directorio raíz se ha creado una carpeta llamada Tests, con diferentes archivos que empiezan con test_, de acuerdo al módulo que se pretenda probar. De ésta forma, Pytest los tomará y ejecutará.
+Para gestionar las pruebas, en nuestro directorio raíz se ha creado una carpeta llamada [Tests](https://github.com/dalkisbustos/Proyecto_Final/tree/main/test), con diferentes archivos que empiezan con test_, de acuerdo al módulo que se pretenda probar. De ésta forma, Pytest los tomará y ejecutará.
 
 Éste Hito 2, comprende las siguientes secciones:
 
