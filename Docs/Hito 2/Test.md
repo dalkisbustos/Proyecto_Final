@@ -11,6 +11,7 @@ Para gestionar las pruebas, en nuestro directorio raíz se ha creado una carpeta
 - [Biblioteca de Aserciones](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/biblioteca_aserciones.md)
 - [Gestor de Tareas](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/gestor_tareas.md)
 - [Marco de pruebas](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/marco_pruebas.md)
+- [Avance de Código](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%202/avance_codigo.md)
 
 
 
