@@ -10,7 +10,7 @@ Una aserción es una declaración de Python para establecer controles de legitim
 
 ![image](https://user-images.githubusercontent.com/116747654/203582851-1937cccd-b1e9-4de1-9a6a-e7c249fd6945.png)
 
-3) Se corre Pytest en la terminal y se esperan los resultados
+3) Se corre Pytest en la terminal y se esperan los resultados. En éste caso, la prueba se ejecutó en un 100%
 
 ![image](https://user-images.githubusercontent.com/116747654/203583123-b10f79c2-931f-48af-a747-0368092c9a97.png)
 
