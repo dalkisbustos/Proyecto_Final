@@ -28,4 +28,4 @@ Dicho ésto, hemos identificado para el Proyecto las diferentes entidades a cont
 
 - **Prodyservicios:** Ésta Clase guarda la información de productos y servicios que ofrece la clínica
 
-Aquí se pueden visualizar las respectivas [clases](https://github.com/dalkisbustos/Proyecto_Final/blob/main/src/Clases.js)
+Aquí se pueden visualizar las respectivas [clases](https://github.com/dalkisbustos/Proyecto_Final/blob/main/src/Clases.py)
