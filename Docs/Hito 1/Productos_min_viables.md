@@ -13,7 +13,7 @@ Durante el Proyecto se ejecutarán los siguientes Productos Mínimamente Viables
 
 + [PMV4: Consulta de Productos y Servicios que la Clínica ofrece](https://github.com/dalkisbustos/Proyecto_Final/milestone/5)
 
-+ [PM5: Alimentación de la Base de Datos](https://github.com/dalkisbustos/Proyecto_Final/milestone/5)
++ [PM5: Alimentación de la Base de Datos](https://github.com/dalkisbustos/Proyecto_Final/milestone/6)
 
-+ [PM6: Gestión de Usuarios](https://github.com/dalkisbustos/Proyecto_Final/milestone/6)
++ [PM6: Gestión de Usuarios](https://github.com/dalkisbustos/Proyecto_Final/milestone/7)
 
