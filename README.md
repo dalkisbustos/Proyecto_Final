@@ -32,8 +32,8 @@ Pytest es un marco de prueba de código abierto basado en Python que generalment
 
 ### Hito 3 Creación de Contenedor de Pruebas ✨
 
-En éste Hito 3, vamos a centrarnos en crear un entorno virtual o Docker para la ejecución de las pruebas. 
-En primera instancia, decidiremos que docker utilizar, construiremos el Dockerfile y haremos la publicación en Docker Hub
+En éste [Hito 3](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%203/Docker_pruebas.md), vamos a centrarnos en la creación de un contenedor virtual  para la ejecución de las pruebas de nuestra aplicación. Un contenedor nos permitirá empaquetar nuestra aplicación en un entorno aislado, junto a sus correspondientes dependencias dentro de unidades estandarizadas, permitiendo que la aplicación sea reproducible en cualquier otro entorno de software. Aunque existen distintos tipos de implementaciones de contenedores, el más famoso motor para crear contenedores de software es Docker. 
+Entonces; en primera instancia decidiremos que contenedor utilizar, construiremos el Dockerfile y haremos la publicación de la imagen del archivo de pruebas.
 
 
 
