@@ -32,7 +32,8 @@ Pytest es un marco de prueba de código abierto basado en Python que generalment
 
 ### Hito 3 Creación de Contenedor de Pruebas ✨
 
-En éste Hito 3, vamos a centrarnos en crear un entorno virtual para la ejecución de las pruebas. 
+En éste Hito 3, vamos a centrarnos en crear un entorno virtual o Docker para la ejecución de las pruebas. 
+En primera instancia, decidiremos que docker utilizar, construiremos el Dockerfile y haremos la publicación en Docker Hub
 
 
 
