@@ -30,7 +30,9 @@ En éste [Hito 2](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/
 
 Pytest es un marco de prueba de código abierto basado en Python que generalmente es para todo uso, pero especialmente para Pruebas funcionales y API, así que por su sencillez y rendimiento nos decantaremos por éste último
 
-### Despliegue ✨
+### Hito 3 Creación de Contenedor de Pruebas ✨
+
+En éste Hito 3, vamos a centrarnos en crear un entorno virtual para la ejecución de las pruebas. 
 
 
 
