@@ -10,4 +10,4 @@ Dividiremos éste Hito 3 en las siguientes secciones:
   
   - [Creación del Dockerfile](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Dockerfile) : Un Dockerfile es el documento de texto que contiene una serie de comandos con el fin que se ejecuten todos a la vez evitando así tener que ejecutarlos uno a uno manualmente. Éste archivo nos permite crear una imagen del contenedor mucho más rápido y más eficiente.
   
-  - Publicación de la imagen en Docker Hub
+  - [Publicación de la imagen en Docker Hub](https://github.com/dalkisbustos/Proyecto_Final/blob/main/Docs/Hito%203/Publicacion_docker_hub.md)
